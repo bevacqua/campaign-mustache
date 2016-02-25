@@ -1,0 +1,20 @@
+{
+  "name": "campaign-mustache",
+  "description": "Mustache template provider for Campaign",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bevacqua/campaign-mustache",
+  "author": {
+    "name": "Nicolas Bevacqua",
+    "email": "hello@ponyfoo.com",
+    "url": "https://ponyfoo.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bevacqua/campaign-mustache.git"
+  },
+  "main": "mustache.js",
+  "dependencies": {
+    "mustache": "2.2.1"
+  }
+}
